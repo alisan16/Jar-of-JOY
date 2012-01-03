@@ -1,0 +1,12 @@
+Content\SpriteFont1.xnb
+Content\Tile.xnb
+Content\Next.xnb
+Content\Prev.xnb
+Content\Curr.xnb
+Content\Text.xnb
+Content\Target.xnb
+Content\JarOfJoy.xnb
+Content\No.xnb
+Content\Yes.xnb
+Content\Tile.png
+Content\Quotes.xml

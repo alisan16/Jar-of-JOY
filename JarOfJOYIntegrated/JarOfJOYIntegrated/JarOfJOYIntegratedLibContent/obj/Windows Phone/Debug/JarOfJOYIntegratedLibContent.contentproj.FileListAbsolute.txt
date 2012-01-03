@@ -1,0 +1,4 @@
+c:\users\alisa\documents\visual studio 2010\Projects\JarOfJOYIntegrated\JarOfJOYIntegrated\JarOfJOYIntegratedLibContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Joy\Dropbox\Jar of JOY\JarOfJOYIntegrated\JarOfJOYIntegrated\JarOfJOYIntegratedLibContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Alisa\Dropbox\Jar of JOY\JarOfJOYIntegrated\JarOfJOYIntegrated\JarOfJOYIntegratedLibContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Alisa\Dropbox\Jar of JOY\finalSubmission\JarOfJOYIntegrated\JarOfJOYIntegrated\JarOfJOYIntegratedLibContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

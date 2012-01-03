@@ -1,0 +1,5 @@
+C:\Users\Alisa\Downloads\Shake gestures library\ShakeGestures\ShakeGestures\Bin\Debug\ShakeGestures.dll
+C:\Users\Alisa\Downloads\Shake gestures library\ShakeGestures\ShakeGestures\Bin\Debug\ShakeGestures.pdb
+C:\Users\Alisa\Downloads\Shake gestures library\ShakeGestures\ShakeGestures\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alisa\Downloads\Shake gestures library\ShakeGestures\ShakeGestures\obj\Debug\ShakeGestures.dll
+C:\Users\Alisa\Downloads\Shake gestures library\ShakeGestures\ShakeGestures\obj\Debug\ShakeGestures.pdb

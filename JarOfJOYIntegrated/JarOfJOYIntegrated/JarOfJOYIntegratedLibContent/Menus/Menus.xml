@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Menu>
+  <MenuName>Main Menu</MenuName>
+  <MenuItem>
+    <MenuItemText>Option 1</MenuItemText>
+    <MenuItemEvent>Show Message Box</MenuItemEvent>
+    <EventParams>Option 1</EventParams>
+  </MenuItem>
+  <PositionX>10</PositionX>
+  <PositionY>10</PositionY>
+  <SelectedItemNum>0</SelectedItemNum>
+</Menu>
